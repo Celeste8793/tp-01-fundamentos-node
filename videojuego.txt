@@ -1,0 +1,7 @@
+FICHA DE VIDEOJUEGO
+------------------------------
+Título: Minecraft
+Género: Supervivencia y construcción
+Plataforma: PC
+Año de lanzamiento: 2011
+Desarrollador: Mojang Studios

@@ -1,0 +1,11 @@
+{
+  "name": "tp-01-fundamentos-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trabajo práctico 01: fundamentos de Node.js, archivos y event loop",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "event-loop": "node orden-event-loop.js"
+  }
+}
